@@ -49,6 +49,6 @@ h1 {
 iframe{
   max-width: 100%;
   max-height: 400px;
-
+  alignment: center;
 }
 
